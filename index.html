@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./styles/main.css">
+        <script src="./js/stream.js"></script>
+    </head>
+    <body>
+        <div class="top-runner">
+            <img src="./img/logos/logo-blue.png">
+            <a href="index.html" data-indicator="strong">Home</a>
+            <a href="about.html">About</a>
+            <a href="members.html">Our Members</a>
+            <a href="news.html">News</a>
+            <a href="partner.html">Work with Us</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        <div class="hero">Centre for Operational Research, Management Science and Information Systems</div>
+        <div class="stream" id="news-stream">
+            <p><b>Dr Steffen Bayer</b> and <b>Professor Christine Currie</b> ran a Simulation course for NATCOR</p>
+            <p hidden><b>Dr Carlos Lamas Fernandes</b> and <b>Professor Toni Martinez Sykora</b> ran a Combinatorial Optimisation course for NATCOR</p>
+            <p hidden><b>Professor Sally Brailsford</b>, was an invited semi-plenary speaker at the German OR Society’s 25th anniversary conference in Hamburg</p>
+            <p hidden><b>Professor Selin Ahipasaoglu</b> attended the German OR Conference in Hamburg in August and gave an invited talk on route choice modelling</p>
+            <p hidden><b>Professor Stephan Onggo</b> gave an online keynote speech on OR/MS in disaster management at the 4th International Conference on Mathematics and Its Applications (Malang, Indonesia, 10-11 August)</p>
+            <p hidden><b>Professor Selin Ahipasaoglu</b>, <b>Professor Toni Martinez Sykora</b>, and <b>Dr. Carlos Lamas Fernandes</b> visited the Faculty of Engineering in Portugal and presented seminars and tutorials in July</p>
+            <p hidden><b>Dr Bismark Singh</b> travelled to Chile to give a seminar at the School of Engineering, Universidad Católica del Norte, Coquimbo and and the Conference of the International Federation of Operational Research Societies (IFORS).</p>
+            <p hidden><b>Dr Patrick Beullens</b> has successfully acquired funds from Innovate UK for a project on the logistics and supply chain aspects of liquid hydrogen storage and dispensing, in collaboration with ZeroAvia, Lux Industries, and Wessington Cryogenics</p>
+            <p hidden><b>Professor Christine Currie</b> has two EPSRC funded research projects starting this autumn: ADROIT, focused on modelling and pricing for demand responsive transport and a project modelling car share and short-term rentals</p>
+        </div>
+        <script>
+            let news = document.getElementById("news-stream");
+            initStream(5000, news);
+        </script>
+        <div class="cont-row">
+            <div class="sub-cont-col" data-style="quote" style="background-image: url(./img/placeholders/or.jpeg); background-size: cover;">
+                Advanced mathematical and analytical modelling to help people and businesses make better decisions.
+            </div>
+            <div class="sub-cont-col" data-style="button" style="background-image: url(./img/placeholders/supplychain.webp); background-size: cover;" onclick="window.location.href='members.html'">
+                <div class="button-row">
+                    <p>Find an expert from our members</p>
+                </div>
+            </div>
+        </div>
+        <div class="cont-row">
+            <div class="sub-cont-col" data-style="button" style="background-image: url(./img/placeholders/placeholder-three.jpeg); background-size: cover;">
+                <div class="button-row">
+                    <p>Work with us</p>
+                </div>
+            </div>
+            <div class="sub-cont-col" data-style="block">
+                <img src="./img/logos/times.png">
+                <p>Top 20 UK Universities (2023)</p>
+                <img src="./img/logos/qslogo.png">
+                <p>7<sup>th</sup> UK for Operational Research (2021)</p>
+                <p>33<sup>rd</sup> World Wide for Operational Research (2021)</p>
+            </div>
+        </div>
+        <div class="bottom-runner">
+            <img src="./img/logos/uni-logo.png" data-img-size="mid">
+            <p>
+                University of Southampton<br>
+                University Road<br>
+                Southampton SO17 1BJ<br>
+            </p>
+            <img src="./img/icons/linkedinlogo.png" data-img-size="small">
+            <img src="./img/logos/twitterlogo.png" data-img-size="small">
+            <img src="./img/logos/iglogo.png" data-img-size="small">
+        </div>
+        
+    </body>
+</html>

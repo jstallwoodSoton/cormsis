@@ -1,0 +1,394 @@
+{
+    "people" : [
+        {
+            "name" : "Selin",
+            "surname" : "Ahipasaoglu",
+            "title" : "Professor",
+            "post" : "Director of CORMSIS | Professor of Operational Research",
+            "tags" : ["convex", "optimization", "choice", "discrete", "operational research", "operational", "director", "or"],
+            "image" : "selin.jpeg"
+        },
+        {
+            "name" : "Edilson",
+            "surname" : "Arruda",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["healthcare", "health", "decision", "optimization"],
+            "image" : "edilson.jpeg"
+        },
+        {
+            "name" : "Thanos",
+            "surname" : "Avramidis",
+            "title" : "Dr",
+            "post" : "Lecturer in Operational Research",
+            "tags" : ["decision", "markov", "stochastic", "simulation", "simulations", "operational research", "operational", "or"],
+            "image" : "thanos.jpeg"
+        },
+        {
+            "name" : "Sasan",
+            "surname" : "Barak",
+            "title" : "Dr",
+            "post" : "Lecturer in Business Analytics",
+            "tags" : ["financial", "forecasting", "ai", "ml", "machine learning", "artificial intelligence", "business analytics", "business", "analytics", "finance"],
+            "image" : "sasan.jpeg"
+        },
+        {
+            "name" : "Steffen",
+            "surname" : "Bayer",
+            "title" : "Dr",
+            "post" : "Lecturer in Business Analytics",
+            "tags" : ["simulation", "simulations", "health", "healthcare", "business analytics", "analytics"],
+            "image" : "steffen.jpeg"
+        },
+        {
+            "name" : "Patrick",
+            "surname" : "Beullens",
+            "title" : "Dr",
+            "post" : "Deputy Director of CORMSIS | Associate Professor",
+            "tags" : ["shipping", "supply", "logistics", "director"],
+            "image" : "patrick.jpeg"
+        },
+        {
+            "name" : "Kasia",
+            "surname" : "Bijak",
+            "title" : "Dr",
+            "post" : "Lecturer in Management Science",
+            "tags" : ["statistical", "data", "ai", "ml", "machine learning", "artificial intelligence", "management", "management science", "ms"],
+            "image" : "kasia.jpeg"
+        },
+        {
+            "name" : "Sally",
+            "surname" : "Brailsford",
+            "title" : "Professor",
+            "post" : "Professor in Management",
+            "tags" : ["healthcare", "health", "behavior", "simulation", "simulations", "management", "ms"],
+            "image" : "sally.jpeg"
+        },
+        {
+            "name" : "Mario",
+            "surname" : "Brito",
+            "title" : "Professor",
+            "post" : "Professor",
+            "tags" : ["risk", "probability", "models"],
+            "image" : "mario.jpeg"
+        },
+        {
+            "name" : "Pablo",
+            "surname" : "Casas",
+            "title" : "Mr",
+            "post" : "",
+            "tags" : ["credit", "models", "ai", "ml", "machine learning", "artificial intelligence"],
+            "image" : "pablo.jpeg"
+        },
+        {
+            "name" : "Christine",
+            "surname" : "Currie",
+            "title" : "Professor",
+            "post" : "Professor of Operational Research",
+            "tags" : ["simulation", "simulations", "healthcare", "health", "decision", "operational research", "operational", "research", "or"],
+            "image" : "christine.jpeg"
+
+        },
+        {
+            "name" : "Hao",
+            "surname" : "Dong",
+            "title" : "Dr",
+            "post" : "Lecturer in Project Management and Ops",
+            "tags" : ["agile", "project", "digital", "sustainable", "supply", "management", "ms", "supply chains", "supply chain", "operations"],
+            "image" : "hao.jpeg"
+        },
+        {
+            "name" : "Carlos Lamas",
+            "surname" : "Fernandez",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["operational", "operational research", "packing", "vehicle", "or"],
+            "image" : "carlos lamas.jpeg"
+        },
+        {
+            "name" : "Joerg",
+            "surname" : "Fliege",
+            "title" : "Professor",
+            "post" : "Professor of Operational Research",
+            "tags" : ["optimization", "machine learning", "ai", "ml", "artificial intelligence", "operational research", "operational", "or"],
+            "image" : "logo-blue.png"
+        },
+        {
+            "name" : "Fangsheng",
+            "surname" : "Ge",
+            "title" : "Dr",
+            "post" : "Lecturer in Management Science",
+            "tags" : ["maritime", "logistics", "statistical", "management", "management science", "ms"],
+            "image" : "fangsheng.jpeg"
+        },
+        {
+            "name" : "Yu (Jack)",
+            "surname" : "Gong",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["supply", "sustainability", "blockchain"],
+            "image" : "yu (jack).jpeg"
+        },
+        {
+            "name" : "Konstantinos",
+            "surname" : "Katsikopoulos",
+            "title" : "Professor",
+            "post" : "Professor of Behavioral Science",
+            "tags" : ["decision", "ai", "ml", "machine learning", "artificial intelligence", "behavior", "behavioral"],
+            "image" : "konstantinos.jpeg"
+        },
+        {
+            "name" : "Jonathan",
+            "surname" : "Klein",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["healthcare", "health", "problem", "management", "ms"],
+            "image" : "jonathan.jpeg"
+        },
+        {
+            "name" : "Martin",
+            "surname" : "Kunc",
+            "title" : "Professor",
+            "post" : "Professor in Business Analytics",
+            "tags" : ["statistical", "strategy", "scenario", "business", "business analytics", "analytics"],
+            "image" : "martin.jpeg"
+        },
+        {
+            "name" : "David",
+            "surname" : "Lai",
+            "title" : "Dr",
+            "post" : "Lecturer in Supply Chain & Management Science",
+            "tags" : ["green", "logistics", "vehicle", "planning", "supply chain", "supply", "management", "management science", "ms", "supply chains"],
+            "image" : "david.jpeg"
+        },
+        {
+            "name" : "Libo",
+            "surname" : "Li",
+            "title" : "Dr",
+            "post" : "Lecturer in Business Analytics",
+            "tags" : ["time", "text", "network", "business analytics", "analytics"],
+            "image" : "libo.jpeg"
+        },
+        {
+            "name" : "Zixu",
+            "surname" : "Liu",
+            "title" : "Dr",
+            "post" : "Lecturer in Decision Analytics and Risk",
+            "tags" : ["information", "decision", "ai", "ml", "machine learning", "artificial intelligence", "decision", "decision analytics", "is", "information systems", "risk"],
+            "image" : "zixu.jpeg"
+        },
+        {
+            "name" : "Tiejun",
+            "surname" : "Ma",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["financial", "technology", "investors", "behavior", "finance"],
+            "image" : "logo-blue.png"
+        },
+        {
+            "name" : "Lidia",
+            "surname" : "Mayangsari",
+            "title" : "Ms",
+            "post" : "",
+            "tags" : ["behavior", "decision"],
+            "image" : "lidia.jpeg"
+        },
+        {
+            "name" : "Christophe",
+            "surname" : "Mues",
+            "title" : "Professor",
+            "post" : "Professor of Data Science and Info Systems",
+            "tags" : ["credit", "predictive", "machine learning", "ml", "ai", "artificial intelligence", "data", "data science", "info", "information", "systems", "information systems", "is"],
+            "image" : "christophe.jpeg"
+        },
+        {
+            "name" : "Stephan",
+            "surname" : "Onggo",
+            "title" : "Professor",
+            "post" : "Professor in Business Analytics",
+            "tags" : ["simulation", "simulations", "behavior", "business analytics", "analytics"],
+            "image" : "stephan.jpeg"
+        },
+        {
+            "name" : "Vuong",
+            "surname" : "Phan",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["optimization", "dynamic", "control"],
+            "image" : "vuong.jpeg"
+        },
+        {
+            "name" : "Marion",
+            "surname" : "Penn",
+            "title" : "Dr",
+            "post" : "Lecturer in Management Science",
+            "tags" : ["optimization", "simulation", "simulations", "impact", "management", "management science", "ms"],
+            "image" : "marion.jpeg"
+        },
+        {
+            "name" : "Chris",
+            "surname" : "Potts",
+            "title" : "Professor",
+            "post" : "Emeritus Professor",
+            "tags" : ["production", "transport", "combinatorial"],
+            "image" : "chris.jpeg"
+        },
+        {
+            "name" : "Soroosh",
+            "surname" : "Saghiri",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["supply", "digital"],
+            "image" : "soroosh.jpeg"
+        },
+        {
+            "name" : "Christina",
+            "surname" : "Saville",
+            "title" : "Dr",
+            "post" : "Senior Research Fellow",
+            "tags" : ["staffing", "healthcare", "health"],
+            "image" : "logo-blue.png"
+        },
+        {
+            "name" : "Bismark",
+            "surname" : "Singh",
+            "title" : "Dr",
+            "post" : "Senior Lecturer",
+            "tags" : ["stochastic", "optimization", "public health", "health", "renewable", "sustainability"],
+            "image" : "bismark.jpeg"
+        },
+        {
+            "name" : "Mee Chi",
+            "surname" : "So",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["consumer", "public", "social media"],
+            "image" : "mee chi.jpeg"
+        },
+        {
+            "name" : "James",
+            "surname" : "Stallwood",
+            "title" : "Dr",
+            "post" : "Knowledge Exchange Officer",
+            "tags" : ["behavior", "healthcare", "health", "ai", "ml", "machine learning", "artificial intelligence", "enterprise"],
+            "image" : "logo-blue.png"
+        },
+        {
+            "name" : "Ming-Chien",
+            "surname" : "Sung",
+            "title" : "Professor",
+            "post" : "Professor of Risk and Decision Sciences",
+            "tags" : ["financial", "risk", "ai", "ml", "machine learning", "artificial intelligence", "decision", "finance"],
+            "image" : "ming-chien.jpeg"
+        },
+        {
+            "name" : "Toni Martinez",
+            "surname" : "Sykora",
+            "title" : "Professor",
+            "post" : "Professor",
+            "tags" : ["optimization", "combinatorial", "packing", "transport"],
+            "image" : "toni martinez.jpeg"
+        },
+        {
+            "name" : "Simon",
+            "surname" : "Troup",
+            "title" : "Dr",
+            "post" : "Principal Enterprise Fellow",
+            "tags" : ["technology", "financial", "data", "enterprise"],
+            "image" : "simon.jpeg"
+        },
+        {
+            "name" : "Samuel",
+            "surname" : "Ward",
+            "title" : "Mr",
+            "post" : "",
+            "tags" : ["optimization", "bilevel", "convex", "ai", "ml", "machine learning", "artificial intelligence"],
+            "image" : "samuel.jpeg"
+        },
+        {
+            "name" : "Yue",
+            "surname" : "Wu",
+            "title" : "Dr",
+            "post" : "Reader",
+            "tags" : ["supply", "maritime", "container"],
+            "image" : "yue.jpeg"
+        },
+        {
+            "name" : "Huan",
+            "surname" : "Yu",
+            "title" : "Dr",
+            "post" : "Lecturer in Business Analytics",
+            "tags" : ["data", "analytics", "optimization", "reinforcement", "business", "analytics", "business analytics"],
+            "image" : "huan.jpeg"
+        },
+        {
+            "name" : "Fatema",
+            "surname" : "Zaghloul",
+            "title" : "Dr",
+            "post" : "Lecturer in Info Systems & Systems Thinking",
+            "tags" : ["information", "digital", "emerging", "info", "systems", "information systems", "is"],
+            "image" : "fatema.jpeg"
+        },
+        {
+            "name" : "Alain",
+            "surname" : "Zemkoho",
+            "title" : "Dr",
+            "post" : "Associate Professor",
+            "tags" : ["bilevel", "hierarchical", "optimization", "nonsmooth", "nonconvex"],
+            "image" : "alain.jpeg"
+        },
+        {
+            "name" : "Qin",
+            "surname" : "Zhou",
+            "title" : "Dr",
+            "post" : "Lecturer in Operations Management",
+            "tags" : ["technology", "contract", "fairness", "supply", "operations management", "management", "ms"],
+            "image" : "qin.jpeg"
+        }
+    ],
+
+    "links" : {
+        "Alain Zemkoho" : "https://www.southampton.ac.uk/people/5xd5hn/doctor-alain-zemkoho",
+        "Bismark Singh" : "https://www.southampton.ac.uk/people/628nx8/doctor-bismark-singh",
+        "Carlos Lamas Fernandez" : "https://www.southampton.ac.uk/people/5xjdpm/doctor-carlos-lamas-fernandez",
+        "Chris Potts" : "https://www.southampton.ac.uk/people/5wzbnq/emeritus-professor-chris-potts",
+        "Christina Saville" : "https://www.southampton.ac.uk/people/5xjdqk/doctor-christina-saville",
+        "Christine Currie": "https://www.southampton.ac.uk/people/5wzzxf/professor-christine-currie",
+        "Christophe Mues" : "https://www.southampton.ac.uk/people/5wzzz9/professor-christophe-mues",
+        "David Lai" : "https://www.southampton.ac.uk/people/5zcgsm/doctor-david-lai",
+        "Edilson Arruda" : "https://www.southampton.ac.uk/people/5y7cpb/doctor-edilson-arruda",
+        "Fangsheng Ge" : "https://www.southampton.ac.uk/people/5zbxnh/doctor-fangsheng-ge",
+        "Fatema Zaghloul" : "https://www.southampton.ac.uk/people/5z6tps/doctor-fatema-zaghloul",
+        "Hao Dong" : "https://www.southampton.ac.uk/people/5y8nqs/doctor-hao-dong",
+        "Huan Yu" : "https://www.southampton.ac.uk/people/5y2dxx/doctor-huan-yu",
+        "Joerg Fliege" : "https://www.southampton.ac.uk/people/5x5mlf/professor-joerg-fliege",
+        "Jonathan Klein" : "https://www.southampton.ac.uk/people/5wyt87/doctor-jonathan-klein",
+        "Kasia Bijak" : "https://www.southampton.ac.uk/people/5x7vsk/doctor-kasia-bijak", 
+        "Konstantinos Katsikopoulos" : "https://www.southampton.ac.uk/people/5xhnqc/professor-konstantinos-katsikopoulos",
+        "Libo Li" : "https://www.southampton.ac.uk/people/5y5l79/doctor-libo-li",
+        "Lidia Mayangsari" : "https://www.southampton.ac.uk/people/5y259n/lidia-mayangsari",
+        "Mario Brito" : "https://www.southampton.ac.uk/people/5x5thg/professor-mario-brito",
+        "Marion Penn" : "https://www.southampton.ac.uk/people/5x79kq/doctor-marion-penn",
+        "Martin Kunc" : "https://www.southampton.ac.uk/people/5xs6r2/professor-martin-kunc",
+        "Mee Chi So" : "https://www.southampton.ac.uk/people/5x5qct/doctor-mee-chi-so",
+        "Ming-Chien Sung" : "https://www.southampton.ac.uk/people/5x2tfn/professor-ming-chien-sung",
+        "Pablo Casas" : "https://www.southampton.ac.uk/people/5yqcby/mr-pablo-casas", 
+        "Patrick Beullens" : "https://www.southampton.ac.uk/people/5x8p7x/doctor-patrick-beullens",
+        "Qin Zhou" : "https://www.southampton.ac.uk/people/62b8fn/doctor-qin-zhou",
+        "Sally Brailsford" : "https://www.southampton.ac.uk/people/5wygls/professor-sally-brailsford",
+        "Samuel Ward" : "https://www.southampton.ac.uk/people/5zv8fk/mr-samuel-ward",
+        "Sasan Barak" : "https://www.southampton.ac.uk/people/5y2s59/doctor-sasan-barak",
+        "Selin Ahipasaoglu" : "https://www.southampton.ac.uk/people/5y9p9p/professor-selin-ahipasaoglu",
+        "Simon Troup" : "https://www.southampton.ac.uk/people/5zbkfg/doctor-simon-troup",
+        "Soroosh Saghiri" : "https://www.southampton.ac.uk/people/629gsn/doctor-soroosh-saghiri",
+        "Steffen Bayer" : "https://www.southampton.ac.uk/people/5xhjf7/doctor-steffen-bayer",
+        "Stephan Onggo" : "https://www.southampton.ac.uk/people/5xrdwm/doctor-stephan-onggo",
+        "Thanos Avramidis" : "https://www.southampton.ac.uk/people/5x5np6/doctor-thanos-avramidis",
+        "Tiejun Ma" : "https://www.southampton.ac.uk/people/5x7tdj/doctor-tiejun-ma",
+        "Toni Martinez Sykora" : "https://www.southampton.ac.uk/people/5x8pqs/professor-toni-martinez-sykora",
+        "Vuong Phan" : "https://www.southampton.ac.uk/people/5y2ds9/doctor-vuong-phan",
+        "Yu (Jack) Gong" : "https://www.southampton.ac.uk/people/5xjfkw/doctor-yu-jack-gong",
+        "Yue Wu" : "https://www.southampton.ac.uk/people/5wzy65/doctor-yue-wu",
+        "Zixu Liu" : "https://www.southampton.ac.uk/people/6272pf/doctor-zixu-liu"
+    }
+}
