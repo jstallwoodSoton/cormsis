@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./styles/main.css">
+        <script src="./js/partnerform.js"></script>
+    </head>
+    <body>
+        <div class="top-runner">
+            <img src="./img/logos/logo-blue.png">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="members.html">Our Members</a>
+            <a href="news.html">News</a>
+            <a href="partner.html" data-indicator="strong">Work with Us</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        <div class="hero">Centre for Operational Research, Management Science and Information Systems</div>
+        <div class="large-cont">
+            <h3>I'm interested in...</h3>
+            <div class="large-profile">
+                <table>
+                    <tr>
+                        <td><img src="./img/icons/bar-chart.png" data-style="icon" class="icon-ns" onclick="changeIconClass(this, 'icon-ns', 'icon-s')"></td>
+                        <td><img src="./img/icons/certificate.png" data-style="icon" class="icon-ns" onclick="changeIconClass(this, 'icon-ns', 'icon-s')"></td>
+                        <td><img src="./img/icons/compass.png" data-style="icon" class="icon-ns" onclick="changeIconClass(this, 'icon-ns', 'icon-s')"></td>
+                        <td><img src="./img/icons/handshake.png" data-style="icon" class="icon-ns" onclick="changeIconClass(this, 'icon-ns', 'icon-s')"></td>
+                        <td><img src="./img/icons/speaker.png" data-style="icon" class="icon-ns" onclick="changeIconClass(this, 'icon-ns', 'icon-s')"></td>
+                    </tr>
+                    <tr>
+                        <td>Hosting an MSc Project</td>
+                        <td>Accreditation</td>
+                        <td>Joint Research Project</td>
+                        <td>Consultancy</td>
+                        <td>Booking a Speaker</td>
+                    </tr>
+                </table>
+            </div>
+            <h3>...for...</h3>
+            <div class="large-profile" data-spe="tag-span">
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Optimization, scheduling and logistics</span>
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Operations and supply chain management</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Data science and business analytics</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Risk analysis, finance and credit scoring</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Knowledge management & information systems</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Problem structuring and soft OR</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Simulation</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">R and Python Programming</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Machine Learning</span>  
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Data mining</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Revenue management</span> 
+                <span class="span-ns" onclick="changeIconClass(this, 'span-ns', 'span-s')">Forecasting</span> 
+            </div>
+            <h3>Please provide a short summary of your idea</h3>
+            <i>(including any CORMSIS members you may have spoken with)</i>
+            <textarea></textarea>
+            <h3>Finally, please provide us with a contact email</h3>
+            <input type="email">
+            <button class="form-button" onclick="submit()">Submit</button>
+        </div>
+        <div class="bottom-runner">
+            <img src="./img/logos/uni-logo.png" data-img-size="mid">
+            <p>
+                University of Southampton<br>
+                University Road<br>
+                Southampton SO17 1BJ<br>
+            </p>
+            <img src="./img/icons/linkedinlogo.png" data-img-size="small">
+            <img src="./img/logos/twitterlogo.png" data-img-size="small">
+            <img src="./img/logos/iglogo.png" data-img-size="small">
+        </div>
+        
+    </body>
+</html>
